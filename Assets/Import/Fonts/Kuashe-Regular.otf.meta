@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5ec74956b88a3241956c04f21e4403f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kuashe
+  fontNames:
+  - Kuashe
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 15a752e727d2117479ae31275fe3d22c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

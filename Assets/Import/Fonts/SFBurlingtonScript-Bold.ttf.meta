@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 85c63140c0ee4e04081e04e8d1491534
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Burlington Script
+  fontNames:
+  - SF Burlington Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2546a2a2813b7194f9386cc5093271f7, type: 3}
+  - {fileID: 12800000, guid: 1505b9c4c3a905244a8749b1367b8d7b, type: 3}
+  - {fileID: 12800000, guid: 3b0530b87465f94419b8c2b67220b1b5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
